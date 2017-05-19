@@ -1,0 +1,22 @@
+.user-set{
+	width: 500px;
+	height: 600px;
+	margin: 20px;
+}
+.user-set p input{
+	width: 400px;
+	height: 26px;
+	padding-left: 5px;
+	margin-left: 10px;
+	border: 1px solid blue;
+}
+.user-set p{
+	margin-top: 20px;
+}
+#set-sub{
+	width: 50px;
+	height: 30px;
+	margin-left: 400px;
+	margin-top: 20px;
+	background: orange;
+}

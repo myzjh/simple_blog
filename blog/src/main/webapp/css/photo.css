@@ -1,0 +1,21 @@
+.add-photo{
+	width: 600px;
+	height: 600px;
+	margin: 20px;
+}
+.add-photo h2{
+	margin-top:20px; 
+}
+#upload{
+	width: 60px;
+	height: 30px;
+	background: orange;
+}
+.show-photo{
+	width: 600px;
+	height: 300px;
+	border: 1px solid black;
+}
+.show-photo ul li{
+	float: left;
+}

@@ -1,0 +1,14 @@
+
+.write-here{
+	width: 70%;
+	margin: 20px;
+}
+.write-here p{
+	margin:20px 0 20px 0;
+}
+#log-tit{
+	width: 80%;
+	height: 22px;
+	padding-left: 5px;
+	margin-left: 10px;
+}

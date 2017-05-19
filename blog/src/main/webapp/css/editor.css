@@ -1,0 +1,30 @@
+.log{
+	margin: 20px;
+	width: 70%;
+}
+.record h2{
+	border-bottom: 2px solid #ccc;
+    padding-bottom: 3px;
+}
+.record p{
+	margin: 5px;
+	padding: 5px;
+}
+.record span{
+	margin: 8px 0 8px 380px;
+	display: inline-block;
+}
+.editor{
+	margin-top: 30px;
+}
+.tit{
+	display: block;
+	margin-bottom:10px;
+}
+#submit{
+	margin-left: 89%;
+    margin-top: 10px;
+    width: 80px;
+    height: 25px;
+    cursor: pointer;
+}
